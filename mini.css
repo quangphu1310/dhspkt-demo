@@ -175,19 +175,19 @@ html {
 }
 
 .one {
-    background: url(/img/top4-1.png) no-repeat top left;
+    background: url(img/top4-1.png) no-repeat top left;
 }
 
 .two {
-    background: url(/img/top4-2.jpg) no-repeat top left;
+    background: url(img/top4-2.jpg) no-repeat top left;
 }
 
 .three {
-    background: url(/img/top4-3.jpeg) no-repeat top left;
+    background: url(img/top4-3.jpeg) no-repeat top left;
 }
 
 .four {
-    background: url(/img/top4-4.jpeg) no-repeat top left;
+    background: url(img/top4-4.jpeg) no-repeat top left;
 }
 
 .bg {
